@@ -5,7 +5,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "index.js",
-    library: "ajs-homework_platforms",
+    library: "ajs-homeworks_platforms",
     libraryTarget: "umd",
     libraryExport: "default",
     globalObject: "this",
